@@ -1,5 +1,5 @@
 Favorite color: Blue
-Favorite food: Pizza
+Favorite food: BBQ
 Favorite musician/band: Imagine Dragons
-Favorite movie: Shutter Island
-Requested grade in the course: 95
+Favorite movie: Back To The Futere
+Requested grade in the course: 100
